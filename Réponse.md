@@ -25,3 +25,26 @@ D'après OMIM ce gène ce trouve sur le chromosome 14, plus précisément au niv
  (Arg244Cys) Substitution d'une arginine par une cystéine en position 244
  (Pro109Leu) Substitution d'une proline par une leucine en position 109
  ### Q9
+Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autre.
+ ### Q10
+ D'après Rettbase le variant NM_005249.4:c.326C>T serait probablement un variant bénin.
+ Tandis que le variant NM_005249.4:c.730C>T est un variant pathogène.
+ ### Q11
+ La notation génomique de ce varaiant au format HGVS est NC_000014.8:g.29237215C>T
+ ### Q12
+ NC : molécule génomique complète soit ADN
+ 000014 : chromosome 14
+ 8 : version 8 du chromosome 14
+ g : pour notation génomique
+ 29237215 : position génomique
+ C : nucléotide de référence
+ T : nucléotide variant
+ Donc remplacement d'une cytosine par une thymine en position 29237215.
+ ### Q13
+ NM_005249.4:c.730C>T donc 14.8:g.29237215C>T n'est pas trouvé dans GnomAD.
+ NM_005249.4:c.326C>T donc NC_000014.8:g.29236811C>T existe dans la base donnée GnomAD.
+ ### Q14
+  NM_005249.4:c.326C>T a ainsi pour fréquence nul 0.000 selon GnomAD (cf : http://gnomad.broadinstitute.org/variant/14-29236811-C-T)
+  
+  
+ 
