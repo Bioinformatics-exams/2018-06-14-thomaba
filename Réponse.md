@@ -57,13 +57,10 @@ Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autr
  b) HGVS est une nomenclature des variations qu'elles soient nucléotidiques, protéiques ou génomiques.
  c) GRCh37/hg19 human genome assembly correspond à une mise à jour majeures du génome humain qui date de 2009, il existe une mise à jour plus récente datant de 2013 avec GRCh38/hg38.
  ### Q4
- 
+ La méthode utilisée est la méthode trio WES qui consiste en un séquençage de l'enfant et des deux parent afin de conclure du caractère de novo ou non du variant.
  ### Q5
- 
+ Le séquençage Sanger permet un séquençage fidèle avec un risque d'erreur relativement bas comparé au séquençage haut débit moins coûteux, cette précision permet ainsi de conclure à une variation de novo avec plus de certitude en cas discordnace avec le génome des parents puisque la variation observée a moins de chance d'être le fruit d'une erreur de séquençage.
  ### Q6
- 
+ Les patients 1 et 2 possède un variant apparu de novo et les parents sont sains ce qui constitue un critère en faveur d'un variant délétère. Chez le patient 1 la mutation provoquerait un épissage abérrant et aucun autre variant de novo n'a été trouvé. Chez le patient 2 la mutatution entraine l'arrivée prématuré d'un codon stop qui peut entrainer de grande conséquence fonctionnelles, de plus les autre variations trouvées sont bénignes ou non associés avec le phénotype comme une duplication mais cette dernière est héritée de la mère est serait donc bénigne. Ces critère sont en faveurs du caractère délétère de ces variants.
  ### Q7
- 
- 
-
  
