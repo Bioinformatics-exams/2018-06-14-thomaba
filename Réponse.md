@@ -51,7 +51,7 @@ Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autr
  a) OMIM database est une base de donnée de maladies orphelines cela signifie Online Mendelian Inheritance in Man.
  b) DDG2P gene list pour Developmental Disorders Genotype-Phenotype Database est une liste de gènes associés à des troubles du développement rapportés par des cliniciens.  
  ### Q2
- 
+En recherchant sur google nous obtenons ceci : Sequence variant classification and reporting: recommendations for improving the interpretation of cancer susceptibility genetic test results. Cette classification permet de classer les variants selon leur pathogénicité et donc le liens entre les variants et la maladie. Il existe d'autre méthode de classification de variant avec d'autres critères.
  ### Q3
  a) NM signifie qu'il s'agit d'ARNm,001190274 correspond au numéro du transcrit et 1 à la version 1 de ce transcrit.
  b) HGVS est une nomenclature des variations qu'elles soient nucléotidiques, protéiques ou génomiques.
@@ -59,8 +59,9 @@ Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autr
  ### Q4
  La méthode utilisée est la méthode trio WES qui consiste en un séquençage de l'enfant et des deux parent afin de conclure du caractère de novo ou non du variant.
  ### Q5
- Le séquençage Sanger permet un séquençage fidèle avec un risque d'erreur relativement bas comparé au séquençage haut débit moins coûteux, cette précision permet ainsi de conclure à une variation de novo avec plus de certitude en cas discordnace avec le génome des parents puisque la variation observée a moins de chance d'être le fruit d'une erreur de séquençage.
+ Le séquençage Sanger permet un séquençage, c'est-à-dire la séquence de nucléotides, fidèle avec un risque d'erreur relativement bas comparé au séquençage haut débit moins coûteux, cette précision permet ainsi de conclure à une variation de novo avec plus de certitude en cas discordnace avec le génome des parents puisque la variation observée a moins de chance d'être le fruit d'une erreur de séquençage.
  ### Q6
  Les patients 1 et 2 possède un variant apparu de novo et les parents sont sains ce qui constitue un critère en faveur d'un variant délétère. Chez le patient 1 la mutation provoquerait un épissage abérrant et aucun autre variant de novo n'a été trouvé. Chez le patient 2 la mutatution entraine l'arrivée prématuré d'un codon stop qui peut entrainer de grande conséquence fonctionnelles, de plus les autre variations trouvées sont bénignes ou non associés avec le phénotype comme une duplication mais cette dernière est héritée de la mère est serait donc bénigne. Ces critère sont en faveurs du caractère délétère de ces variants.
  ### Q7
- 
+ D'autres mutations du gène *FBXO11* ont été rapportées dans la littératire est sont associé à des problème de déficience intellectuelle.
+Les deux patient avec l'atteinte de ce gène possède un phénotype commun.
