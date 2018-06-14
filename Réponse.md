@@ -46,5 +46,9 @@ Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autr
  ### Q14
   NM_005249.4:c.326C>T a ainsi pour fréquence nul 0.000 selon GnomAD (cf : http://gnomad.broadinstitute.org/variant/14-29236811-C-T)
   
-  
+ ## Exercice 2
+ ### Q1
+ a) OMIM database est une base de donnée de maladies orphelines cela signifie Online Mendelian Inheritance in Man.
+ b) DDG2P gene list pour Developmental Disorders Genotype-Phenotype Database est une liste de gènes associés à des troubles du développement rapportés rappot  
+ 
  
