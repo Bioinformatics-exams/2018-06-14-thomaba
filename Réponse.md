@@ -17,7 +17,7 @@ D'après OMIM ce gène ce trouve sur le chromosome 14, plus précisément au niv
  ### Q7
  Avec mutalyzer on obtient comme notation protéique pour le premier variant NM_005249.4(FOXG1_i001):p.(Arg244Cys) et pour le second NM_005249.4(FOXG1_i001):p.(Pro109Leu).
  ### Q8
- NM : mRNA
+ NM : ARNm
  005249 : numéro du transcrit
  4 : version du transcrit
  (FOXG1_i001) : nom du gène et numéro d'isoforme
@@ -49,6 +49,21 @@ Il s'agit de mutations faux sens avec remplacement d'un acide aminé par un autr
  ## Exercice 2
  ### Q1
  a) OMIM database est une base de donnée de maladies orphelines cela signifie Online Mendelian Inheritance in Man.
- b) DDG2P gene list pour Developmental Disorders Genotype-Phenotype Database est une liste de gènes associés à des troubles du développement rapportés rappot  
+ b) DDG2P gene list pour Developmental Disorders Genotype-Phenotype Database est une liste de gènes associés à des troubles du développement rapportés par des cliniciens.  
+ ### Q2
  
+ ### Q3
+ a) NM signifie qu'il s'agit d'ARNm,001190274 correspond au numéro du transcrit et 1 à la version 1 de ce transcrit.
+ b) HGVS est une nomenclature des variations qu'elles soient nucléotidiques, protéiques ou génomiques.
+ c) GRCh37/hg19 human genome assembly correspond à une mise à jour majeures du génome humain qui date de 2009, il existe une mise à jour plus récente datant de 2013 avec GRCh38/hg38.
+ ### Q4
+ 
+ ### Q5
+ 
+ ### Q6
+ 
+ ### Q7
+ 
+ 
+
  
