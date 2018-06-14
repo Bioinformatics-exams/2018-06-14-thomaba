@@ -57,7 +57,7 @@ En recherchant sur google nous obtenons ceci : Sequence variant classification a
  b) HGVS est une nomenclature des variations qu'elles soient nucléotidiques, protéiques ou génomiques.
  c) GRCh37/hg19 human genome assembly correspond à une mise à jour majeures du génome humain qui date de 2009, il existe une mise à jour plus récente datant de 2013 avec GRCh38/hg38.
  ### Q4
- La méthode utilisée est la méthode trio WES qui consiste en un séquençage de l'enfant et des deux parent afin de conclure du caractère de novo ou non du variant.
+ La méthode utilisée est la méthode trio WES, Whole genome sequencingqui consiste en un séquençage complet du génome de l'enfant et des deux parent afin de conclure du caractère de novo ou non du variant.
  ### Q5
  Le séquençage Sanger permet un séquençage, c'est-à-dire la séquence de nucléotides, fidèle avec un risque d'erreur relativement bas comparé au séquençage haut débit moins coûteux, cette précision permet ainsi de conclure à une variation de novo avec plus de certitude en cas discordnace avec le génome des parents puisque la variation observée a moins de chance d'être le fruit d'une erreur de séquençage.
  ### Q6
