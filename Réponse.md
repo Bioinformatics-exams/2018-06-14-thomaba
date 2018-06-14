@@ -64,4 +64,4 @@ En recherchant sur google nous obtenons ceci : Sequence variant classification a
  Les patients 1 et 2 possède un variant apparu de novo et les parents sont sains ce qui constitue un critère en faveur d'un variant délétère. Chez le patient 1 la mutation provoquerait un épissage abérrant et aucun autre variant de novo n'a été trouvé. Chez le patient 2 la mutatution entraine l'arrivée prématuré d'un codon stop qui peut entrainer de grande conséquence fonctionnelles, de plus les autre variations trouvées sont bénignes ou non associés avec le phénotype comme une duplication mais cette dernière est héritée de la mère est serait donc bénigne. Ces critère sont en faveurs du caractère délétère de ces variants.
  ### Q7
  D'autres mutations du gène *FBXO11* ont été rapportées dans la littératire est sont associé à des problème de déficience intellectuelle.
-Les deux patient avec l'atteinte de ce gène possède un phénotype commun.
+Les deux patients avec l'atteinte de ce gène possède un phénotype commun.
